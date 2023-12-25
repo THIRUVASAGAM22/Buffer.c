@@ -1,0 +1,6 @@
+Enter your string : Thiru
+Your string : Thiru
+Enter your long string :Thiruvasagam
+Your long string : Thiruvasagam
+*** stack smashing detected ***: terminated
+Aborted (core dumped)
